@@ -107,9 +107,5 @@ nav {
     opacity: 1;
     margin-top: -7.44px;
     border-radius: 15px;
-    weight: 400;
-}
-
-.content1 p {
-    
+    font-weight: 400;
 }
